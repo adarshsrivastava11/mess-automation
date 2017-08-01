@@ -117,8 +117,8 @@ EMAIL_HOST = 'mmtp.iitk.ac.in'
 EMAIL_PORT = 25
 
 # Optional SMTP authentication information for EMAIL_HOST.
-EMAIL_HOST_USER = 'adarshs'
-EMAIL_HOST_PASSWORD = 'adarsh11'
+EMAIL_HOST_USER = '<usrname>'
+EMAIL_HOST_PASSWORD = '<password>'
 EMAIL_USE_TLS = True
 
 
